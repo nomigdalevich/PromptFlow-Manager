@@ -17,8 +17,8 @@ React-based prompt management application. Users can add prompts, while an admin
 - CSS
 
 ## How to Run
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/nomigdalevich/PromptFlow-Manager.git
 ```
 
